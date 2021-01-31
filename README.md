@@ -26,6 +26,8 @@
 
 ### Robotics
 
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375700-5dfdfe80-635c-11eb-84b2-b11381e15c22.gif" width="250"></p>
+
 [Unknown Environment Mapping - ROS](https://github.com/kgandhi09/Unknown_Environment_Mapping-ROS):- A turtlebot 3 explores and navigates an unknown environment of maze and maps it using ROS. 
 
 [Robotic Pick and Place](https://github.com/kgandhi09/Robotic_Pick_and_Place):- A robotic arm that detects various objects in its workspace using machine vision, picks them, places them outside the workspace in a predefined area and sorts them based on appearances.
