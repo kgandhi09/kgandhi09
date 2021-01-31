@@ -30,4 +30,4 @@
 
 ### AI powered UAV:- 
 
-[Indoor Autonomous Drone Flight](https://github.com/kgandhi09/Indoor_Autonomous_Drone_Flight):- 
+[Indoor Autonomous Drone Flight](https://github.com/kgandhi09/Indoor_Autonomous_Drone_Flight):- Autnomous drone flight and navigation system that uses channel override method and manipulates the pwm signals of each channel (throttle, roll, pitch and yaw). Since, the drone has to be used in indoor environments and for applications such as warehouse management, it doesn't have access to GPS signals and thus, waypoint navigation system using MissionPlanner and self-stabilzation mode cannot be used. This method utilizes serial communication between RaspberryPi and Pixhawk 2 to generate and manipulate PWM signals for stabilization and navigation. Program has self-stabilization feature that uses Pixhwak's inetrnal gyro data. Has a two way tcp socket communication between drone and ground station. Ground station uses an overhead camera and a computer vision algorithm to detect and localize the drones through colored markers attached on the top of the drone. 
