@@ -26,7 +26,7 @@
 
 ### Robotics
 
-<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375700-5dfdfe80-635c-11eb-84b2-b11381e15c22.gif" width="250"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375700-5dfdfe80-635c-11eb-84b2-b11381e15c22.gif" width="250"> <img src="https://user-images.githubusercontent.com/36654439/106375729-a61d2100-635c-11eb-8502-7328fff7269a.png" width="250"></p>
 
 [Unknown Environment Mapping - ROS](https://github.com/kgandhi09/Unknown_Environment_Mapping-ROS):- A turtlebot 3 explores and navigates an unknown environment of maze and maps it using ROS. 
 
