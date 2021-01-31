@@ -17,6 +17,8 @@
 
 ### Artificial Intelligence
 
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375600-6c97e600-635b-11eb-89cb-49cf8d07d966.gif" width="250"></p>
+
 [AI Plays Gomuku](https://github.com/kgandhi09/AI-Plays-Gomuku):- An Artificially Intelligent game playing agent for the game of Gomuku. Uses Minimax Algorithm to find the best move possible and alpha beta pruning to avoid expanding unnecessary nodes in the game tree.
 
 [AI Plays GTA 5](https://github.com/kgandhi09/AI-Plays-GTA-5):- An artificially intelligent self-driving agent for the game of GTA 5. A method of image segmentation with CNN was used to classify different objects within an urban scape. Uses an open source CNN architecture called U-Net, developed by the university of Freiberg. Has a trajectory generation feature and drive algorithm to drive the vehicle autonomously once the position of the lane is predicted.
@@ -34,3 +36,4 @@
 ### Android Development
 
 [Covid 19 Assisstant APP](https://github.com/kgandhi09/Covid-19_Assisstant_App):- An android application that relies on user reported data to report and keep track of people not following rules and regulations through a scoring system, unsanitized places through AR signs and a daily log of places visited & people met.
+z
