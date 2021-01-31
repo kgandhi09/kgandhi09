@@ -17,17 +17,20 @@
 
 ### Artificial Intelligence
 
-[AI Plays Gomuku](https://github.com/kgandhi09/AI-Plays-Gomuku):- An Artificially Intelligent game playing agent for the game of Gomuku. Gomuku is a 5 in a row game played on 15x15 board. Uses Minimax Algorithm to find the best move possible and alpha beta pruning to avoid expanding unnecessary nodes in the game tree.
+[AI Plays Gomuku](https://github.com/kgandhi09/AI-Plays-Gomuku):- An Artificially Intelligent game playing agent for the game of Gomuku. Uses Minimax Algorithm to find the best move possible and alpha beta pruning to avoid expanding unnecessary nodes in the game tree.
 
 [AI Plays GTA 5](https://github.com/kgandhi09/AI-Plays-GTA-5):- An artificially intelligent self-driving agent for the game of GTA 5. A method of image segmentation with CNN was used to classify different objects within an urban scape. Uses an open source CNN architecture called U-Net, developed by the university of Freiberg. Has a trajectory generation feature and drive algorithm to drive the vehicle autonomously once the position of the lane is predicted.
 
 
 ### Robotics
 
-[Unknown Environment Mapping - ROS](https://github.com/kgandhi09/Unknown_Environment_Mapping-ROS):- A turtlebot 3 explores and navigates an unknown environment of maze and maps it. Uses Gmapping, a laser based SLAM package to extract information of current epxlored map in form of occupancy grid, finds interesting frontiers to drive to further explore the map. Uses A* algorithm to optimally drive the turtlebot to the interested frontiers. Also, uses custom navigational nodes instead of move_base package.
+[Unknown Environment Mapping - ROS](https://github.com/kgandhi09/Unknown_Environment_Mapping-ROS):- A turtlebot 3 explores and navigates an unknown environment of maze and maps it using ROS. 
 
-[Robotic Pick and Place](https://github.com/kgandhi09/Robotic_Pick_and_Place):- A robotic arm that detects various objects in its workspace using machine vision, picks them, places them outside the workspace in a predefined area and sorts them based on appearances. Uses DH-convention for forward kinematics to control the tip of the robot, gemometric based approach for inverse kinematics to calculate joint angle values, jacobian matrix for differential kinematics to calculate the forward velocity kinematics, cubic polynomial and quintic polynomial method for trajectory planning and energy-based Lagrangian method for force-torque relationship to fight gravity. 
+[Robotic Pick and Place](https://github.com/kgandhi09/Robotic_Pick_and_Place):- A robotic arm that detects various objects in its workspace using machine vision, picks them, places them outside the workspace in a predefined area and sorts them based on appearances.
+### AI powered UAV
 
-### AI powered UAV:- 
+[Indoor Autonomous Drone Flight](https://github.com/kgandhi09/Indoor_Autonomous_Drone_Flight):- Autnomous drone flight system in an indoor environment with no access to GPS signals. Uses overhead camera attached with the ground station and a computer vision algorithm for localization, channel override method to manipulate the pwm signals of each channel (throttle, roll, pitch and yaw) for navigation, pixhawk's internal gyro data and a self-stabilizing algorithm to self-stabilize the drone, and a two-way TCP socket com to communicate the data between ground station and the drone. 
 
-[Indoor Autonomous Drone Flight](https://github.com/kgandhi09/Indoor_Autonomous_Drone_Flight):- Autnomous drone flight and navigation system that uses channel override method and manipulates the pwm signals of each channel (throttle, roll, pitch and yaw). Since, the drone has to be used in indoor environments and for applications such as warehouse management, it doesn't have access to GPS signals and thus, waypoint navigation system using MissionPlanner and self-stabilzation mode cannot be used. This method utilizes serial communication between RaspberryPi and Pixhawk 2 to generate and manipulate PWM signals for stabilization and navigation. Program has self-stabilization feature that uses Pixhwak's inetrnal gyro data. Has a two way tcp socket communication between drone and ground station. Ground station uses an overhead camera and a computer vision algorithm to detect and localize the drones through colored markers attached on the top of the drone. 
+### Android Development
+
+[Covid 19 Assisstant APP](https://github.com/kgandhi09/Covid-19_Assisstant_App):- An android application that relies on user reported data to report and keep track of people not following rules and regulations through a scoring system, unsanitized places through AR signs and a daily log of places visited & people met.
