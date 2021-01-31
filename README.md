@@ -31,11 +31,16 @@
 [Unknown Environment Mapping - ROS](https://github.com/kgandhi09/Unknown_Environment_Mapping-ROS):- A turtlebot 3 explores and navigates an unknown environment of maze and maps it using ROS. 
 
 [Robotic Pick and Place](https://github.com/kgandhi09/Robotic_Pick_and_Place):- A robotic arm that detects various objects in its workspace using machine vision, picks them, places them outside the workspace in a predefined area and sorts them based on appearances.
+
 ### AI powered UAV
+
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375829-a0740b00-635d-11eb-85c6-9ceb849dd18d.gif" width="250"></p>
 
 [Indoor Autonomous Drone Flight](https://github.com/kgandhi09/Indoor_Autonomous_Drone_Flight):- Autnomous drone flight system in an indoor environment with no access to GPS signals. Uses overhead camera attached with the ground station and a computer vision algorithm for localization, channel override method to manipulate the pwm signals of each channel (throttle, roll, pitch and yaw) for navigation, pixhawk's internal gyro data and a self-stabilizing algorithm to self-stabilize the drone, and a two-way TCP socket com to communicate the data between ground station and the drone. 
 
 ### Android Development
 
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375976-dcf43680-635e-11eb-9033-e2296c2e6b0e.gif" width="250"></p>
+
 [Covid 19 Assisstant APP](https://github.com/kgandhi09/Covid-19_Assisstant_App):- An android application that relies on user reported data to report and keep track of people not following rules and regulations through a scoring system, unsanitized places through AR signs and a daily log of places visited & people met.
-z
+
