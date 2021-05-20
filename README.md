@@ -40,8 +40,8 @@
 
 ### Application Development
 
-<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375976-dcf43680-635e-11eb-9033-e2296c2e6b0e.gif" width="250"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/36654439/106375976-dcf43680-635e-11eb-9033-e2296c2e6b0e.gif" width="250"> <img src="https://user-images.githubusercontent.com/36654439/118980363-0630e500-b997-11eb-85b3-9911af357a5e.gif" width="275"></p>
 
 [Covid 19 Assisstant APP (Android)](https://github.com/kgandhi09/Covid-19_Assisstant_App):- An android application that relies on user reported data to report and keep track of people not following rules and regulations through a scoring system, unsanitized places through AR signs and a daily log of places visited & people met.
 
-[Internal Navigation Appp for Brigham & Women's Hospital (Desktop Application)](https://github.com/kgandhi09/Brigham-and-Women-s-hospital-Navigation-App):- 
+[Internal Navigation Appp for Brigham & Women's Hospital (Desktop Application)](https://github.com/kgandhi09/Brigham-and-Women-s-hospital-Navigation-App):- This application is aimed to serve the administrators, employees, patients, and guests of Brigham and Women’s Hospital in Boston, Massachusetts. The application has a variety of features to enhance a users experience during their time at Brigham and Women’s Hospital. Some of the main features of the application consist of a pathfinding component to assist directional navigation, a map editor specifically for administrative users, and twelve different service request components.
