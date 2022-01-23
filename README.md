@@ -10,7 +10,7 @@
 - Robotics
 - Deep Learning
 - AI powered Unmanned Aerial Vehicles (UAVs)
-- Android Development
+- Application Development
 
 ## Suggested Repos
 
